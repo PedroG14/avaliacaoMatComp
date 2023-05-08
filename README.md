@@ -1,2 +1,1 @@
-# avaliacaoMatComp
-Matemática Computacional - Avaliações
+# Matemática Computacional - Avaliações
